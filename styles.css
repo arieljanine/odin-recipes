@@ -2,3 +2,11 @@ body {
     background-color: bisque;
 }
 
+img {
+    width: 500px;
+    height: auto;
+}
+
+.recipe-list {
+    
+}
