@@ -12,9 +12,12 @@ h1 {
 img {
     width: 500px;
     height: auto;
+    border: 4px solid #b70d0d;
+    margin: auto 455px;
 }
 
 .recipe-list {
     font-size: 24px;
     font-weight: bold;
+    margin: 50px;
 }
